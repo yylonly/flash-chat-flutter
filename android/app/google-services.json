@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453690798836",
+    "firebase_url": "https://flash-chat-fd93c.firebaseio.com",
+    "project_id": "flash-chat-fd93c",
+    "storage_bucket": "flash-chat-fd93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453690798836:android:c149d5c93fbf7229",
+        "android_client_info": {
+          "package_name": "net.mydreamy.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453690798836-4h6pm8s1l3lf1q7kfgi8ssrnr1i52jj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2T6-4MDLNFq693QJecZE9y2tPSQ088GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453690798836-4h6pm8s1l3lf1q7kfgi8ssrnr1i52jj5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453690798836-kou8v1ap87caeeadu712u7vs7lf731tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.mydreamy.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
